@@ -16,6 +16,7 @@
     "storybook:android": "cross-env EXPO_PUBLIC_STORYBOOK_ENABLED='true' expo start --android"
   },
   "dependencies": {
+    "@gluestack-ui/button": "^1.0.14",
     "@gluestack-ui/icon": "^0.1.26",
     "@gluestack-ui/nativewind-utils": "^1.0.26",
     "@gluestack-ui/overlay": "^0.1.22",
