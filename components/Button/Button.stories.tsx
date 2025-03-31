@@ -12,7 +12,7 @@ const meta = {
   },
   decorators: [
     (Story) => (
-      <View style={{ padding: 16 }}>
+      <View className="p-4">
         <Story />
       </View>
     ),
