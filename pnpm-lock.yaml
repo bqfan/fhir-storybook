@@ -109,16 +109,16 @@ importers:
         specifier: ^8.6.12
         version: 8.6.12(react@18.3.1)(storybook@8.6.12(prettier@2.8.8))
       '@storybook/addon-ondevice-actions':
-        specifier: ^8.5.4
+        specifier: ^8.6.2
         version: 8.6.2(prettier@2.8.8)(react-native@0.76.7(@babel/core@7.26.10)(@babel/preset-env@7.26.9(@babel/core@7.26.10))(@types/react@18.3.20)(react@18.3.1))(react@18.3.1)(storybook@8.6.12(prettier@2.8.8))
       '@storybook/addon-ondevice-backgrounds':
-        specifier: ^8.5.4
+        specifier: ^8.6.2
         version: 8.6.2(prettier@2.8.8)(react-native@0.76.7(@babel/core@7.26.10)(@babel/preset-env@7.26.9(@babel/core@7.26.10))(@types/react@18.3.20)(react@18.3.1))(react@18.3.1)(storybook@8.6.12(prettier@2.8.8))
       '@storybook/addon-ondevice-controls':
-        specifier: ^8.5.4
+        specifier: ^8.6.2
         version: 8.6.2(3b46528946ed4496251f0223f14d014b)
       '@storybook/addon-ondevice-notes':
-        specifier: ^8.5.4
+        specifier: ^8.6.2
         version: 8.6.2(prettier@2.8.8)(react-native@0.76.7(@babel/core@7.26.10)(@babel/preset-env@7.26.9(@babel/core@7.26.10))(@types/react@18.3.20)(react@18.3.1))(react@18.3.1)(storybook@8.6.12(prettier@2.8.8))
       '@storybook/core':
         specifier: ^8.6.12
