@@ -48,6 +48,7 @@
     "@expo/metro-runtime": "~4.0.1",
     "@storybook/addon-actions": "^8.6.12",
     "@storybook/addon-controls": "^8.6.12",
+    "@storybook/addon-docs": "^8.6.12",
     "@storybook/addon-essentials": "^8.6.12",
     "@storybook/addon-links": "^8.6.12",
     "@storybook/addon-ondevice-actions": "^8.6.2",

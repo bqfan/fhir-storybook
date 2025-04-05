@@ -7,6 +7,17 @@ import { MyButton } from "./Button";
 const meta = {
   title: "MyButton",
   component: MyButton,
+  // for the web docs page
+  tags: ["autodocs"],
+  parameters: {
+    docs: {
+      description: {
+        component: 'This is a custom button used across the app.',
+      },
+    },
+    // for ondevice notes
+    notes: 'This is a custom button used across the app.',
+  },
   args: {
     text: "Hello world",
   },

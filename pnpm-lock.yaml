@@ -102,6 +102,9 @@ importers:
       '@storybook/addon-controls':
         specifier: ^8.6.12
         version: 8.6.12(storybook@8.6.12(prettier@2.8.8))
+      '@storybook/addon-docs':
+        specifier: ^8.6.12
+        version: 8.6.12(@types/react@18.3.20)(storybook@8.6.12(prettier@2.8.8))
       '@storybook/addon-essentials':
         specifier: ^8.6.12
         version: 8.6.12(@types/react@18.3.20)(storybook@8.6.12(prettier@2.8.8))
