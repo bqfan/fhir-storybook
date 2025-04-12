@@ -59,6 +59,7 @@
     "@storybook/react-native": "^8.5.4",
     "@storybook/react-native-web-vite": "^8.6.12",
     "@storybook/test": "^8.6.12",
+    "@storybook/testing-library": "^0.2.2",
     "@types/react": "~18.3.12",
     "babel-plugin-react-docgen-typescript": "^1.5.1",
     "babel-plugin-react-native-web": "^0.19.10",
